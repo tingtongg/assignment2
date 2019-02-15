@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+  
+    <title>FACILITIES/CLASSES</title>
+    <style>
+ 
+ 
+ body {
+ background-color:black;}
+ 
+ 
+h1 {
+color: red;
+text-align:center;
+border: 5px solid red;
+padding: 20px;
+margin: 50px;
+font-family: forte;
+font-size: 27px;
+}
+
+h2 {
+color: red;
+text-align:center;
+border: 5px solid red;
+padding: 20px;
+margin: 50px;
+font-family: forte;
+font-size: 27px;
+}
+
+
+p {
+color: white;
+font-family:Arial Black;
+text-align: center;
+}
+
+
+#p01 {
+  color: black;
+  font-family: dante;
+}
+
+
+nav {
+color:white;
+text-align:right;
+padding: 50px;
+font-size:18px
+}
+
+ul{
+font-family:Arial Black;
+color: white;
+}
+
+#myHeader {
+  color: red;
+  padding: 15px;
+  text-align:center;
+  font-family: forte;
+  font-size: 42px;
+  border: 7px solid red;
+  title: Name of Gym;
+</style>
+
+
+</head>
+<body>
+
+
+<a href="https://www.gymmboxx.com/">
+<img src="gymmboxxlogo.jpg" alt="GYMMBOXX Logo" style="float:left;width:150px;height:150px;">
+
+<nav>
+       
+<a href="Index.html">HOME</a> | 
+<a href="page2.html">WHERE TO FIND US</a> |
+<a href="page3.html">FACILITIES/CLASSES</a> |
+<a href="page4.html">MEMBERSHIP</a> |
+<a href="page5.html">GET IN TOUCH</a> |
+        
+</nav>
+
+
+    <br>
+    <br>
